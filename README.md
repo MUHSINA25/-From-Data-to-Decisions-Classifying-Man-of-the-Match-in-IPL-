@@ -38,5 +38,4 @@ I would like to express my gratitude to my mentors and peers for their constant 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+   https://github.com/MUHSINA25/-From-Data-to-Decisions-Classifying-Man-of-the-Match-in-IPL-.git
